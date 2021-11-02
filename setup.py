@@ -13,7 +13,7 @@ LIST_OF_REQUIREMENTS = []
 setup(
     name=SRC_REPO,
     version="0.0.1",
-    author=prasanna-1985,
+    author="prasanna-1985",
     description="A simple NLP package for DVC",
     long_description=long_description,
     long_description_content_type="text/markdown",
